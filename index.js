@@ -4,3 +4,5 @@ console.log('feature2')
 console.log('local feature2')
 console.log('feature3')
 
+console.log('master')
+
